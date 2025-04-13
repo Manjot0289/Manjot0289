@@ -1,3 +1,9 @@
-#header:{
+#header{
     background-color: rgb(21, 21, 21);
+}
+
+#footer{
+    text-align: left;
+    color: aqua;
+
 }
